@@ -8,7 +8,8 @@ Sistema de inteligencia artificial desarrollado con Ollama y Python.
 En fase inicial de desarrollo.
 
 ## Objetivo
-Construir una plataforma de inteligencia artificial escalable orientada al aprendizaje, automatización y desarrollo de soluciones tecnológicas.
+## Objetivo
+Desarrollar soluciones de inteligencia artificial orientadas al aprendizaje, automatización y creación de herramientas reciclables tecnológicamente escalables.
 
 ## Tecnologías iniciales
 - Ollama
